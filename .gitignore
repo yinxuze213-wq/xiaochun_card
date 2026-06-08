@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+secrets.json
+latest_preview.html
+backup-before-ui-refresh/
+.preview-server.pid
